@@ -6,6 +6,7 @@
 - [Vue3 TypeScript 体操实践](https://bytedance.feishu.cn/wiki/wikcnungeatifXI5xwcRcg5wVad#)
 - [esModuleInterop 到底做了什么？](https://zhuanlan.zhihu.com/p/148081795)
 - [从 TypeScript 到 VSCode - 语言服务插件导引](https://zhuanlan.zhihu.com/p/359199865)
+- [模式匹配 - 让你 ts 类型体操水平暴增的套路](https://zhuanlan.zhihu.com/p/449762679)
 
 ## Vue
 ### Volar
