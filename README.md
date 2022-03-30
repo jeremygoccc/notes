@@ -11,3 +11,6 @@
 ## Vue
 ### Volar
 - [Use Take Over Mode instead of TS Plugin](https://github.com/johnsoncodehk/volar/discussions/471)
+
+## 综合
+- [防御性开发和设计 - 克军](https://mp.weixin.qq.com/s/G4pME9xFHdWnFckgytnofQ)
