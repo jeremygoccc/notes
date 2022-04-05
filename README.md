@@ -17,3 +17,4 @@
 
 ## 综合
 - [防御性开发和设计 - 克军](https://mp.weixin.qq.com/s/G4pME9xFHdWnFckgytnofQ)
+- [一个程序员的成长之路 - 张云龙](https://github.com/fouber/blog/issues/41)
