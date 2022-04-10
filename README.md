@@ -15,6 +15,10 @@
 ### Volar
 - [Use Take Over Mode instead of TS Plugin](https://github.com/johnsoncodehk/volar/discussions/471)
 
+## 打包工具
+### esbuild
+- [esbuild 为什么那么快](https://zhuanlan.zhihu.com/p/379164359)
+
 ## 综合
 - [防御性开发和设计 - 克军](https://mp.weixin.qq.com/s/G4pME9xFHdWnFckgytnofQ)
 - [一个程序员的成长之路 - 张云龙](https://github.com/fouber/blog/issues/41)
