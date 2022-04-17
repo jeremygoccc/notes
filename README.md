@@ -9,6 +9,7 @@
 - [Vue3 TypeScript 体操实践](https://bytedance.feishu.cn/wiki/wikcnungeatifXI5xwcRcg5wVad#)
 - [esModuleInterop 到底做了什么？](https://zhuanlan.zhihu.com/p/148081795)
 - [模式匹配 - 让你 ts 类型体操水平暴增的套路](https://zhuanlan.zhihu.com/p/449762679)
+- [手把手教你在业务项目中实践类型体操](https://zhuanlan.zhihu.com/p/181696903)
 
 ## VS Code
 - [从 TypeScript 到 VSCode - 语言服务插件导引](https://zhuanlan.zhihu.com/p/359199865)
