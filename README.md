@@ -19,8 +19,8 @@
 ### Volar
 - [Use Take Over Mode instead of TS Plugin](https://github.com/johnsoncodehk/volar/discussions/471)
 
-## 打包工具
-### esbuild
+## 工具链
+- [2022，前端工具链十年盘点](https://mp.weixin.qq.com/s/FBxVpcdVobgJ9rGxRC2zfg)
 - [esbuild 为什么那么快](https://zhuanlan.zhihu.com/p/379164359)
 
 ## Node
