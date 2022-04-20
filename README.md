@@ -23,6 +23,9 @@
 ### esbuild
 - [esbuild 为什么那么快](https://zhuanlan.zhihu.com/p/379164359)
 
+## Node
+- [Node.js 并发能力总结](https://mp.weixin.qq.com/s/6LsPMIHdIOw3KO6F2sgRXg)
+
 ## 综合
 - [防御性开发和设计 - 克军](https://mp.weixin.qq.com/s/G4pME9xFHdWnFckgytnofQ)
 - [一个程序员的成长之路 - 张云龙](https://github.com/fouber/blog/issues/41)
