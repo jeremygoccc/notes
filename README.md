@@ -22,6 +22,7 @@
 ## 工具链
 - [2022，前端工具链十年盘点](https://mp.weixin.qq.com/s/FBxVpcdVobgJ9rGxRC2zfg)
 - [esbuild 为什么那么快](https://zhuanlan.zhihu.com/p/379164359)
+- [从 Turborepo 看 Monorepo 工具的任务编排能力](https://github.com/worldzhao/blog/issues/13)
 
 ## Node
 - [Node.js 并发能力总结](https://mp.weixin.qq.com/s/6LsPMIHdIOw3KO6F2sgRXg)
