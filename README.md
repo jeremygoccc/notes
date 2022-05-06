@@ -22,6 +22,9 @@
 ### Volar
 - [用接管模式替代内置 VS Code TS 插件](https://github.com/johnsoncodehk/volar/discussions/471)
 
+## React
+- [React 之道 - 软件设计、架构以及最佳实践](https://alexkondov.com/tao-of-react/)
+
 ## Node
 - [Node.js 并发能力总结](https://mp.weixin.qq.com/s/6LsPMIHdIOw3KO6F2sgRXg)
 
