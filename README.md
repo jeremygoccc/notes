@@ -38,6 +38,7 @@
 - [一个程序员的成长之路 - 张云龙](https://github.com/fouber/blog/issues/41)
 - [防御性开发和设计 - 克军](https://mp.weixin.qq.com/s/G4pME9xFHdWnFckgytnofQ)
 - [前端大概要知道的 AST](https://juejin.cn/post/7087075805884809252)
+- [Side Project 指南](https://sideproject.guide/)
 
 ## 各类技巧
 - [如何找出泄漏到全局的 JavaScript 变量](https://mmazzarolo.com/blog/2022-02-14-find-what-javascript-variables-are-leaking-into-the-global-scope/)
