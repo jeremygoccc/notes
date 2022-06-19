@@ -24,6 +24,7 @@
 
 ## React
 - [React 之道 - 软件设计、架构以及最佳实践](https://alexkondov.com/tao-of-react/)
+- [React 的 setState 是同步还是异步？](https://mp.weixin.qq.com/s/4V3Hl6P_Y4HIohKBz6GACg)
 
 ## Node
 - [Node.js 并发能力总结](https://mp.weixin.qq.com/s/6LsPMIHdIOw3KO6F2sgRXg)
