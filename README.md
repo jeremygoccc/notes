@@ -44,3 +44,8 @@
 
 ## 各类技巧
 - [如何找出泄漏到全局的 JavaScript 变量](https://mmazzarolo.com/blog/2022-02-14-find-what-javascript-variables-are-leaking-into-the-global-scope/)
+
+## 技术之外
+- [30 岁了，现在开始努力，晚吗？](https://github.com/mqyqingfeng/Blog/issues/280)
+  - 越来越清晰的认知 + 越来越精湛的能力
+  - 很长一段时间，我的生活看似马上就要开始了。但是总有一些障碍阻挡着，有些事得先解决，有些工作还有待完成，时间貌似不够用，还有一笔债务要去付清，然后生活就会开始。最后我终于明白，这些障碍正是我的生活。
