@@ -35,6 +35,9 @@
 - [esbuild 为什么那么快](https://zhuanlan.zhihu.com/p/379164359)
 - [从 Turborepo 看 Monorepo 工具的任务编排能力](https://github.com/worldzhao/blog/issues/13)
 
+## Code Review
+- [Code Review 金字塔](https://www.morling.dev/blog/the-code-review-pyramid/)
+  - 代码审查应该关注哪些方面，附带有实时的评论区域
 
 ## 综合
 - [一个程序员的成长之路 - 张云龙](https://github.com/fouber/blog/issues/41)
