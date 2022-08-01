@@ -1,5 +1,5 @@
 # Notes
-记录我实际阅读过觉得非常有收获、且可以温故知新的文章
+记录我觉得比较好的文章内容
 
 ## CSS
 - [重新构想原子化 CSS](https://antfu.me/posts/reimagine-atomic-css-zh)
@@ -11,6 +11,8 @@
 - [esModuleInterop 到底做了什么？](https://zhuanlan.zhihu.com/p/148081795)
 - [模式匹配 - 让你 ts 类型体操水平暴增的套路](https://zhuanlan.zhihu.com/p/449762679)
 - [手把手教你在业务项目中实践类型体操](https://zhuanlan.zhihu.com/p/181696903)
+- [使用 TS 获得 catch 块中的错误信息](https://kentcdodds.com/blog/get-a-catch-block-error-message-with-typescript)
+  - TS 无法静态分析出 catch error 参数，需要配合断言使用
 ### 原理解析
 - [TypeScript 编译器工作原理](https://www.huy.rocks/everyday/04-01-2022-typescript-how-the-compiler-compiles)
 
