@@ -40,6 +40,8 @@
   - 代码审查应该关注哪些方面，附带有实时的评论区域
 
 ## 综合
+- [从技术难题中学习](https://www.bmpi.dev/dev/learning-from-puzzles/)
+  - 难题的成因：有限的时间 + 复杂的环境 + 知识的盲区
 - [一个程序员的成长之路 - 张云龙](https://github.com/fouber/blog/issues/41)
 - [防御性开发和设计 - 克军](https://mp.weixin.qq.com/s/G4pME9xFHdWnFckgytnofQ)
 - [前端大概要知道的 AST](https://juejin.cn/post/7087075805884809252)
