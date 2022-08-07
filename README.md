@@ -21,6 +21,10 @@
 - [如何实现语言服务插件 - volar 原理解析](https://zhuanlan.zhihu.com/p/425449041)
 
 ## Vue
+### 原理
+- [Vue 3 源码解读｜v-if 和 v-show 指令实现的原理](https://mp.weixin.qq.com/s?__biz=MzA5NzQ3NzI3OQ==&mid=2247485135&idx=1&sn=c149dc4385c2eb814cb14d5276c2b076&chksm=90a1713fa7d6f829477dac3837ec1a1f87e632610c8c7a0ce70745754e59496c3388e077511a&cur_album_id=1445148154269351937&scene=189#wechat_redirect)
+- [Vue 3 的 SFC Style CSS Variable Injection 提案实现的背后](https://mp.weixin.qq.com/s?__biz=MzA5NzQ3NzI3OQ==&mid=2247485781&idx=1&sn=ca4666313eb5434358a1e02685336c87&chksm=90a17ea5a7d6f7b3f287c85e18fba10b84cf637650eee69c99412729232d60a38e7f8699ecbc&cur_album_id=1445148154269351937&scene=189#wechat_redirect)
+- [Vue3 Ref 语法糖，告别 .value 的写法](https://mp.weixin.qq.com/s?__biz=MzA5NzQ3NzI3OQ==&mid=2247485927&idx=1&sn=51c9c9c1506e10f2ea363560ad2b1ebe&chksm=90a17e17a7d6f701006a5d4403a95997c00bd7e61b72fd6567f96f097ec45fa39ade297c00e0&cur_album_id=1445148154269351937&scene=189#wechat_redirect)
 ### Volar
 - [用接管模式替代内置 VS Code TS 插件](https://github.com/johnsoncodehk/volar/discussions/471)
 
