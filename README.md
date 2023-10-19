@@ -16,10 +16,6 @@
 ### 原理解析
 - [TypeScript 编译器工作原理](https://www.huy.rocks/everyday/04-01-2022-typescript-how-the-compiler-compiles)
 
-## VS Code
-- [从 TypeScript 到 VS Code - 语言服务插件导引](https://zhuanlan.zhihu.com/p/359199865)
-- [如何实现语言服务插件 - volar 原理解析](https://zhuanlan.zhihu.com/p/425449041)
-
 ## Vue
 ### 原理
 - [Vue 3 源码解读｜v-if 和 v-show 指令实现的原理](https://mp.weixin.qq.com/s?__biz=MzA5NzQ3NzI3OQ==&mid=2247485135&idx=1&sn=c149dc4385c2eb814cb14d5276c2b076&chksm=90a1713fa7d6f829477dac3837ec1a1f87e632610c8c7a0ce70745754e59496c3388e077511a&cur_album_id=1445148154269351937&scene=189#wechat_redirect)
@@ -40,6 +36,15 @@
 - [2022，前端工具链十年盘点](https://mp.weixin.qq.com/s/FBxVpcdVobgJ9rGxRC2zfg)
 - [esbuild 为什么那么快](https://zhuanlan.zhihu.com/p/379164359)
 - [从 Turborepo 看 Monorepo 工具的任务编排能力](https://github.com/worldzhao/blog/issues/13)
+
+## 小程序
+- [微信、支付宝小程序实现原理概述](https://segmentfault.com/a/1190000018631528)
+- [小程序底层实现原理及一些思考](https://github.com/berwin/Blog/issues/43)
+- [小程序底层实现原理及一些思考(2)](https://github.com/berwin/Blog/issues/49)
+
+## VS Code
+- [从 TypeScript 到 VS Code - 语言服务插件导引](https://zhuanlan.zhihu.com/p/359199865)
+- [如何实现语言服务插件 - volar 原理解析](https://zhuanlan.zhihu.com/p/425449041)
 
 ## Code Review
 - [Code Review 金字塔](https://www.morling.dev/blog/the-code-review-pyramid/)
